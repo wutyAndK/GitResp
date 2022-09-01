@@ -11,13 +11,5 @@ public class Student {
     private String sex;
     int age;
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "name='" + name + '\'' +
-                ", address='" + address + '\'' +
-                ", sex='" + sex + '\'' +
-                ", age=" + age +
-                '}';
-    }
+    double height;
 }
