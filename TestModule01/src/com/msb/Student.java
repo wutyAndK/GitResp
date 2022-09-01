@@ -6,4 +6,6 @@ package com.msb;
  * date 2022/9/2 0:11
  */
 public class Student {
+    private String name;
+    private String sex;
 }
